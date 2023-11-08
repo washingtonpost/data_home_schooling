@@ -4,8 +4,8 @@
 This repository shares data collected by The Washington Post from individual school districts and states as a whole about home-school enrollment from 2017-18 through 2022-23. The data is what is behind this [story](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/) published on Oct. 31, 2023 by Peter Jamison, Laura Meckler, Prayag Gordy, Clara Ence Morse and Chris Alcantara.
 
 There are two separate data files, both of which cover the same time period: 
-- [homeschool_district.csv](https://github.com/washingtonpost/data_home_schooling/blob/main/homeschool_district.csv)
-- [homeschool_state.csv](https://github.com/washingtonpost/data_home_schooling/blob/main/homeschool_state.csv)
+- [home_school_district.csv](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_district.csv)
+- [home_school_state.csv](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_state.csv)
 
 There is also a data [dictionary](https://github.com/washingtonpost/data_home_schooling/blob/main/home_school_data_dictionary.csv) explaining each file.
 
