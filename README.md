@@ -1,5 +1,5 @@
 # The Rise of Home Schooling
-## Data from The Post's groundbreaking analysis of home-schooling enrollment across the US
+## Data from The Post's analysis of home-schooling enrollment across the US
 
 This repository shares data collected by The Washington Post from individual school districts and states as a whole about home-school enrollment from 2017-18 through 2022-23. The data is what is behind this [story](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/) published on Oct. 31, 2023 by Peter Jamison, Laura Meckler, Prayag Gordy, Clara Ence Morse and Chris Alcantara.
 
