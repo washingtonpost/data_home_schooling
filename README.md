@@ -30,7 +30,7 @@ Please note that we do not accept pull requests.
 The data is published under an Attribution-NonCommercial-ShareAlike 4.0 International CC BY-NC-SA 4.0 license.
 
 ## Credits
-Data analysis + cleaning by Prayag Gordy and Clara Ence Morse.
+Data analysis, standardizing and cleaning by Prayag Gordy and Clara Ence Morse.
 
 Ibrahim Aksoy, Alexander Fernandez, Nami Hijikata, Soléne Guarinos, Lalini Pedris, Emily Seymour and Annie Rupertus from the Investigative Reporting Workshop at American University contributed to the data collection. 
 
