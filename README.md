@@ -4,8 +4,8 @@
 This repository shares data collected by The Washington Post from individual school districts and states as a whole about home-school enrollment from 2017-18 through 2022-23. The data is what is behind this [story](https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/) published on Oct. 31, 2023 by Peter Jamison, Laura Meckler, Prayag Gordy, Clara Ence Morse and Chris Alcantara.
 
 There are two separate data files, both of which cover the same time period: 
-- homeschool_district.csv
-- homeschool_state.csv
+- [homeschool_district.csv](https://github.com/washingtonpost/data_home_schooling/blob/main/homeschool_district.csv)
+- [homeschool_state.csv](https://github.com/washingtonpost/data_home_schooling/blob/main/homeschool_state.csv)
 
 ## Methodology
 To measure the growth of home schooling during the pandemic, The Washington Post collected home-school student counts from 6,738 school districts and an additional 163 counties across the country. Together with students from The Washington Post Investigative Reporting Workshop practicum at American University, reporters trawled state websites, contacted education officials in all 50 states and the District of Columbia and submitted multiple public records requests for an annual count of home-schoolers from the 2017-18 school year through 2022-23.
