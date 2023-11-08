@@ -1,0 +1,15 @@
+﻿HOME_SCHOOL_DISTRICT.csv,
+Field,Definition
+lea_name,Official name of the local education agency (school district) as recorded by the National Center for Education Statistics
+lea_id,official id for the local education agency (school district) created by the National Center for Education Statistics
+state,Postal code state abbreviation
+year,"Reflects the academic school year. Homeschooling counts are sometimes collected as point-in-time figures at different moments in the year, depending by state and district."
+homeschool_students,"The number of home-schooling students reported by the district, under as many legal ways to home-school as it was possible for the Post to collect"
+,
+,
+,
+HOME_SCHOOL_STATE.csv,
+Field,Definition
+state,Full state name
+year,"Reflects the academic school year. Homeschooling counts are sometimes collected as point-in-time figures at different moments in the year, depending by state and district."
+homeschool_students,"The number of home-schooling students reported by the state, under as many legal ways to home-school as it was possible for the Post to collect"
