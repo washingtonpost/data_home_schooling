@@ -21,9 +21,11 @@ The statewide numbers are not always equivalent to the sum of all district total
 The Post used a variety of methods to match each school district name to an NCES district id. However, this was not always possible. In Georgia, families self-report their school district on home-schooling forms; some report programs which are not school districts, and therefore have no corresponding NCES id. In California, families were only required to report county and school district beginning in 2020-21; in addition, district mergers and name changes mean that some districts could not be matched with NCES ids. In Arkansas, 12 home-schoolers reported no school district in 2022-23. The Post marked all such home-schoolers as being within NA districts.
 
 ## Contact & Contributing
-Please reach out with any questions about the data, feedback, updated information or corrections. Before you do, take a moment to review the [Code of Conduct](https://github.com/washingtonpost/data-police-shootings/blob/master/CODE_OF_CONDUCT.md).
+Please reach out to meghan.hoyer@washpost.com with any questions about the data, feedback, updated information or corrections. Before you do, take a moment to review the [Code of Conduct](https://github.com/washingtonpost/data-police-shootings/blob/master/CODE_OF_CONDUCT.md)
 
 Please note that we do not accept pull requests.
+
+If you make use of this data, please credit The Washington Post.
 
 ## Licensing
 The data is published under an Attribution-NonCommercial-ShareAlike 4.0 International CC BY-NC-SA 4.0 license.
